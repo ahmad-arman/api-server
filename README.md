@@ -202,4 +202,4 @@ npm test
 <br><br>
 
 ## UML Diagram
-![image]()
+![image](./lab-04.png)
