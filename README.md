@@ -9,9 +9,9 @@
 <hr>
 
 ## Links
-* [Submission Pull Request]()
-* [Deployed App](https://furat-api-server.herokuapp.com)
-* [Error Report]()
+* [Submission Pull Request](https://github.com/ahmad-arman/api-server/pull/1)
+* [Deployed App](https://ahmadapi-server.herokuapp.com/)
+* [Error Report](https://github.com/ahmad-arman/api-server/actions)
 <hr>
 
 ## Setup
