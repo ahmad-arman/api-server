@@ -26,4 +26,4 @@ jobs:
     - run: npm test
       env:
         CI: true
-        MONGOOSE_TEST_URI: mongodb+srv://ahmad:eng.ahmad123@cluster0.kilwd.mongodb.net/test?retryWrites=true&w=majority
+        MONGOOSE_TEST_URI: mongodb://ahmad:eng.ahmad123@cluster0-shard-00-00.kilwd.mongodb.net:27017,cluster0-shard-00-01.kilwd.mongodb.net:27017,cluster0-shard-00-02.kilwd.mongodb.net:27017/test?ssl=true&replicaSet=atlas-awogmo-shard-0&authSource=admin&retryWrites=true&w=majority
